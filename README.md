@@ -1,19 +1,28 @@
-## 👋 Hi, I'm **Mayank Chauhan**
 
-🎓 **B.Tech (7th Semester, 4th Year)**  
-**Jaypee University of Information Technology (JUIT)**  
-💻 **Machine Learning & Computer Vision Enthusiast**
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mayank+Chauhan;Machine+Learning+%7C+Computer+Vision+Enthusiast;Python+%7C+OpenCV+%7C+FaceNet;Welcome+to+my+GitHub+Profile!" />
+</p>
+<p align="center">
+  
+ <b>B.Tech (7th Semester, 4th Year)</b><br>
+<b>Jaypee University of Information Technology (JUIT)</b><br>
+ <b>Machine Learning & Computer Vision Enthusiast</b>
+
+</p>
 
 ---
 
-## 🚀 About Me
+
+
+##  About Me
 
 I am a passionate developer with strong foundations in **machine learning**, **predictive modeling**, **computer vision**, and **full-stack integration**.  
 Currently, I am building a **Face Recognition System** using **Python, OpenCV, FaceNet, and Encryption** to ensure secure identity verification.
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 ### **Programming Languages**
 - C / C++
@@ -42,7 +51,7 @@ Currently, I am building a **Face Recognition System** using **Python, OpenCV, F
 
 ---
 
-## 🔥 Current Project: Face Recognition System
+##  Current Project: Face Recognition System
 
 - Python, OpenCV, FaceNet  
 - Real-time face detection & embedding  
@@ -52,9 +61,14 @@ Currently, I am building a **Face Recognition System** using **Python, OpenCV, F
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **Email:** 337mayankchauhan@gmail.com 
 
 ---
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mayank+Chauhan;Machine+Learning+%7C+Computer+Vision+Enthusiast;Python+%7C+OpenCV+%7C+FaceNet;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 
