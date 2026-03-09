@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   
- <b>B.Tech (7th Semester, 4th Year)</b><br>
+ <b>B.Tech (8th Semester, 4th Year)</b><br>
 <b>Jaypee University of Information Technology (JUIT)</b><br>
  <b>Machine Learning & Computer Vision Enthusiast</b>
 
